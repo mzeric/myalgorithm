@@ -1,3 +1,6 @@
+/*
+@Author 	xiatianxiao@gmail.com
+*/
 #include<iostream>
 using namespace std;
 
